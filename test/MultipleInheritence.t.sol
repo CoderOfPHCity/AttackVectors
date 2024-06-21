@@ -18,4 +18,6 @@ contract MultipleInheritence is Test  {
     function testAttack() public {
         multipleInheritence.kill();
     }
+
+    
 }
